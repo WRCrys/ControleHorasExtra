@@ -1,0 +1,3 @@
+[submodule "src/CA.ControleHoras.Api/ReactControleHoras"]
+	path = src/CA.ControleHoras.Api/ReactControleHoras
+	url = https://github.com/WRCrys/ReactControleHorasExtra.git
